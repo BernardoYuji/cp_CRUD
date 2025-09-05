@@ -11,5 +11,13 @@
 - `Funcionalidade 5`: Remove alguma jogadora
 - `Funcionalidade 6`: Favorita alguma jogadora
 
+
+
 # Autor
 [<img loading="lazy" src="Bernardo.png" width=115><br><sub>Bernardo Hanashiro</sub>](https://github.com/BernardoYuji) |
+
+
+
+
+# GITHUB PAGES
+#### https://bernardoyuji.github.io/cp_CRUD/
